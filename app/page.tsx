@@ -4,7 +4,6 @@ import React, { useEffect, Fragment } from "react"
 import classNames from "classnames"
 import Image from "next/image"
 // components
-import Modal from "@/components/Modal"
 import { Dialog, Transition } from "@headlessui/react"
 
 export default function Home() {
